@@ -1,0 +1,18 @@
+Q1./home/nyi_tun
+Q2.iomem
+   meminfo
+Q3.PRETTY_NAME="Debian GNU/Linux 12 (bookworm)"
+   NAME="Debian GNU/Linux"
+   VERSION_ID="12"
+   VERSION="12 (bookworm)"
+   VERSION_CODENAME=bookworm
+   ID=debian
+   HOME_URL="https://www.debian.org/"
+   SUPPORT_URL="https://www.debian.org/support"
+   BUG_REPORT_URL="https://bugs.debian.org/"
+Q4a.13354 161.0
+    12421 237.0
+    11138 236.0
+Q4b.13290 161.0
+    12956 237.0
+    11278 236.0

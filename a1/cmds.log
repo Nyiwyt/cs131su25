@@ -1,0 +1,4 @@
+How do I know these commands? A close friend of mine has taken big data and he has worked with terminals for long..
+Q1. echo $HOME
+Q2. ls /proc | grep mem 
+Q3. cat /etc/os-release  
