@@ -23,7 +23,7 @@ BEGIN {
 NR > 1 {
     student_name = $2
     sum_of_score = $3 + $4 + $5
-    num_of_score = 3
+    num_of_score = NF - 2
 
     calculate_average(sum_of_score, num_of_score)
 
