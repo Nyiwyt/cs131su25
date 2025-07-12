@@ -40,8 +40,8 @@ END {
         print "Status: " student_status[student_name]
     }
 
-    highest_score = -1
-    lowest_score = 999999
+    highest_score = 0
+    lowest_score = 10000
     for (student_name in total_score) {
         if (total_score[student_name] > highest_score) {
             highest_score = total_score[student_name]
